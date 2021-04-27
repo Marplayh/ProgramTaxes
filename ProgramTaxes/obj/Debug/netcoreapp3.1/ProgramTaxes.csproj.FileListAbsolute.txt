@@ -1,0 +1,13 @@
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.exe
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.deps.json
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.runtimeconfig.json
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.runtimeconfig.dev.json
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.dll
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\bin\Debug\netcoreapp3.1\ProgramTaxes.pdb
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.csprojAssemblyReference.cache
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.AssemblyInfoInputs.cache
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.AssemblyInfo.cs
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.csproj.CoreCompileInputs.cache
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.dll
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.pdb
+C:\Temp\VSProjects\ProgramTaxes\ProgramTaxes\obj\Debug\netcoreapp3.1\ProgramTaxes.genruntimeconfig.cache
